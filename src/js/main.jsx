@@ -10,7 +10,7 @@ import '../styles/index.css'
 
 // components
 import Home from './components/Home';
-import Counter from './components/Counter';
+import Counter from './components/SecondsCounter';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
